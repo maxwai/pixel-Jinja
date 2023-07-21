@@ -30,12 +30,12 @@ default_prio = 120 # priority: higher number = higher chance of being placed
 # priority = 127
 # overlay_only = false
 
-[[structure]]
-name = "lightmotiv"
-file = "Lightmotiv.png"
-startx = 711
-starty = -367
-priority = 127
+# [[structure]]
+# name = "lightmotiv"
+# file = "Lightmotiv.png"
+# startx = 711
+# starty = -367
+# priority = 127
 
 [[structure]]
 name = "fin"
