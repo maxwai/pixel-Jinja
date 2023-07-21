@@ -37,3 +37,16 @@ startx = 711
 starty = -367
 priority = 127
 
+[[structure]]
+name = "fin"
+file = "fin.png"
+startx = 147
+starty = -367
+priority = 127
+
+[[structure]]
+name = "lightmotiv logo"
+file = "Lightmotiv_logo.png"
+startx = 161
+starty = -356
+priority = 127
