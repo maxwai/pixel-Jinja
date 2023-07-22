@@ -48,8 +48,8 @@ priority = 1
 # [[structure]]
 # name = "lightmotiv"
 # file = "Lightmotiv.png"
-# startx = 711
-# starty = -367
+# startx = -720
+# starty = -329
 # priority = 127
 
 [[structure]]
@@ -93,3 +93,10 @@ priority = 127
 # startx = 0
 # starty = 0
 # priority = 127
+
+[[structure]]
+name = "hase"
+file = "hase.png"
+startx = 202
+starty = -341
+priority = 127
