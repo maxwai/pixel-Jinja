@@ -7,14 +7,22 @@ allowed_colors = [
     "FFA800",
     "FFD635",
     "00A368",
+    "7EED56",
+    "2450A4",
     "3690EA",
+    "51E9F4",
+    "811E9F",
     "B44AC0",
+    "FF99AA",
+    "9C6926",
     "000000",
+    "898D90",
+    "D4D7D9",
     "FFFFFF"
 ]
-width = 1500
+width = 2000
 height = 1000
-add-x = 500
+add-x = 1000
 add-y = 500
 
 default_prio = 120 # priority: higher number = higher chance of being placed
@@ -29,6 +37,13 @@ default_prio = 120 # priority: higher number = higher chance of being placed
 # starty = 1122
 # priority = 127
 # overlay_only = false
+
+[[structure]]
+name = "background"
+file = "background.png"
+startx = 146
+starty = -368
+priority = 1
 
 # [[structure]]
 # name = "lightmotiv"
@@ -50,3 +65,31 @@ file = "Lightmotiv_logo.png"
 startx = 161
 starty = -356
 priority = 127
+
+[[structure]]
+name = "Mona"
+file = "mona-eule.png"
+startx = 150
+starty = -352
+priority = 127
+
+[[structure]]
+name = "peachy"
+file = "peachy.png"
+startx = 162
+starty = -367
+priority = 127
+
+[[structure]]
+name = "luna-melon-maaku"
+file = "luna-melon-maaku.png"
+startx = 177
+starty = -356
+priority = 127
+
+# [[structure]]
+# name = "jinja logo"
+# file = "JinjaPixelLogo.png"
+# startx = 0
+# starty = 0
+# priority = 127
