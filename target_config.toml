@@ -1,31 +1,10 @@
-ignored_colors = [
-    #000000, # filter black, DO NOT USE "#"!!!
-]
-allowed_colors = [
-    #000000, # allow black, DO NOT USE "#"!!!
-    "FF4500",
-    "FFA800",
-    "FFD635",
-    "00A368",
-    "7EED56",
-    "2450A4",
-    "3690EA",
-    "51E9F4",
-    "811E9F",
-    "B44AC0",
-    "FF99AA",
-    "9C6926",
-    "000000",
-    "898D90",
-    "D4D7D9",
-    "FFFFFF"
-]
-width = 2000
-height = 1000
-add-x = 1000
-add-y = 500
-
-default_prio = 120 # priority: higher number = higher chance of being placed
+ignored_colors = []
+allowed_colors = ["BE0039","FF4500","FFA800","FFD635","00A368","00CC78","7EED56","00756F","009EAA","2450A4","3690EA","51E9F4","493AC1","6A5CFF","811E9F","B44AC0","FF3881","FF99AA","6D482F","9C6926","000000","898D90","D4D7D9","FFFFFF"]
+width = 3000
+height = 2000
+add-x = 1500
+add-y = 1000
+default_prio = 120
 
 
 # example:
@@ -39,64 +18,15 @@ default_prio = 120 # priority: higher number = higher chance of being placed
 # overlay_only = false
 
 [[structure]]
-name = "background"
-file = "background.png"
-startx = 146
-starty = -368
-priority = 1
-
-# [[structure]]
-# name = "lightmotiv"
-# file = "Lightmotiv.png"
-# startx = -720
-# starty = -329
-# priority = 127
-
-[[structure]]
-name = "fin"
-file = "fin.png"
-startx = 147
-starty = -367
-priority = 127
-
-[[structure]]
 name = "lightmotiv logo"
 file = "Lightmotiv_logo.png"
-startx = 161
-starty = -356
+startx = -558
+starty = -310
 priority = 127
 
 [[structure]]
-name = "Mona"
-file = "mona-eule.png"
-startx = 150
-starty = -352
-priority = 127
-
-[[structure]]
-name = "peachy"
-file = "peachy.png"
-startx = 162
-starty = -367
-priority = 127
-
-[[structure]]
-name = "luna-melon-maaku"
-file = "luna-melon-maaku.png"
-startx = 177
-starty = -356
-priority = 127
-
-# [[structure]]
-# name = "jinja logo"
-# file = "JinjaPixelLogo.png"
-# startx = 0
-# starty = 0
-# priority = 127
-
-[[structure]]
-name = "hase"
-file = "hase.png"
-startx = 202
-starty = -341
-priority = 127
+name = "neues design"
+file = "neues_design.png"
+startx = 146
+starty = -368
+priority = 200
