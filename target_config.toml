@@ -29,4 +29,18 @@ name = "neues design"
 file = "neues_design.png"
 startx = 146
 starty = -368
-priority = 200
+priority = 127
+
+[[structure]]
+name = "Bif"
+file = "PixelBif.png"
+startx = 1052
+starty = 225
+priority = 127
+
+[[structure]]
+name = "Herz"
+file = "herz.png"
+startx = -557
+starty = -296
+priority = 128
